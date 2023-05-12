@@ -1,5 +1,5 @@
 # Specify a base image
-FROM node:12.13.0-alpine AS alpine
+FROM node:12.22.11-alpine AS alpine
 
 WORKDIR /app
 
